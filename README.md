@@ -7,6 +7,7 @@ Compatible with Arduino nano's small function signal generator, based on Sparkfu
 其实没想到有人会看这个项目的……之前公布是Gerber文件，不算开源吧，这次把原理图和pcb图都公布了。  
 这是使用EasyEDA公布的图纸，可以导出成其他编辑器的文件格式，链接如下：  
 https://easyeda.com/ta.zn.lu/nanogen  
+https://easyeda.com/ta.zn.lu/digi-pot-for-nanogen  
 同样，我也会把源文件直接推到GitHub上。  
 
 **此次更新中：**  
@@ -19,6 +20,7 @@ https://easyeda.com/ta.zn.lu/nanogen
 In fact, I didn't think anyone to look at this project... It was not to be opensource because I only published as a Gerber file before. This time, both the schematic and the pcb map were release.  
 This is a drawing published using EasyEDA that can be exported to a file format of other editors, linked as follows:  
 https://easyeda.com/ta.zn.lu/nanogen  
+https://easyeda.com/ta.zn.lu/digi-pot-for-nanogen  
 I will push the source files directly to GitHub.  
 
 
